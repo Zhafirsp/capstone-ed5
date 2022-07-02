@@ -54,7 +54,7 @@ const TentangKami = () => {
               </Heading>
               <br />
               <Heading
-                color={'blue.300'}
+                color={'#7ed4d2'}
                 fontWeight={400}
                 fontSize={{ base: '2xl', sm: '3xl', lg: '4xl' }}
               >
