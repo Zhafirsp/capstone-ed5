@@ -109,11 +109,11 @@ const Berhitung = () => {
 
 
       <div className="matematika">
-        <img src="images/angka.jpg" className="matematika-img" />
-        <img src="images/penjumlahan.jpg" className="matematika-img" />
-        <img src="images/pengurangan.jpg" className="matematika-img" />
-        <img src="images/perkalian.jpg" className="matematika-img" />
-        <img src="images/pembagian.jpg" className="matematika-img" />
+        <img src="images/berhitung/angka.jpg" className="matematika-img" />
+        <img src="images/berhitung/penjumlahan.jpg" className="matematika-img" />
+        <img src="images/berhitung/pengurangan.jpg" className="matematika-img" />
+        <img src="images/berhitung/perkalian.jpg" className="matematika-img" />
+        <img src="images/berhitung/pembagian.jpg" className="matematika-img" />
       </div>
     </Container>
   );

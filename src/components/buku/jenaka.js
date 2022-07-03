@@ -7,7 +7,7 @@ function Jenaka() {
       <div id="carouselExampleControls" className="carousel slide" data-bs-ride="carousel">
         <div className="carousel-inner">
           <div className="carousel-item active">
-            <img src="images/abuNawas/nawas-1.jpg" className="carousel-img" />
+            <img src="images/buku/abuNawas/nawas-1.jpg" className="carousel-img" />
             <p className='description-story text-center mt-3'>
             Suatu hari di istana yang megah tempat baginda raja tinggal, sang baginda mengalami kesakitan di area perutnya
             <br/>sang pengawal mencari tabib untuk mengetahui penyakit sang raja
@@ -19,7 +19,7 @@ function Jenaka() {
             </p>
           </div>
           <div className="carousel-item">
-            <img src="images/abuNawas/nawas-2.jpg" className="carousel-img" />
+            <img src="images/buku/abuNawas/nawas-2.jpg" className="carousel-img" />
             <p className='description-story text-center mt-3'>
             Akhir-akhir ini aku sering mendapat gangguan perut.
             <br/>Kata tabib pribadiku, aku kena serangan angin," ucap Baginda Raja memulai pembicaraan.
@@ -28,7 +28,7 @@ function Jenaka() {
             </p>
           </div>
           <div className="carousel-item">
-            <img src="images/abuNawas/nawas-3.jpg" className="carousel-img"/>
+            <img src="images/buku/abuNawas/nawas-3.jpg" className="carousel-img"/>
             <p className='description-story text-center mt-3'>
             Tentu saja Abu Nawas bingung bukan kepalang mendapat tugas menangkap serta memenjarakan angin.
             <br/>Kalaupun berhasil, dia tidak yakin bahwa yang ditangkapnya itu angin, karena tidak kelihatan
@@ -36,7 +36,7 @@ function Jenaka() {
             </p>
           </div>
           <div className="carousel-item">
-            <img src="images/abuNawas/nawas-4.jpg" className="carousel-img"/>
+            <img src="images/buku/abuNawas/nawas-4.jpg" className="carousel-img"/>
             <p className='description-story text-center mt-3'>
             "Sudahkah engkau berhasil memenjarakan angin, hai Abu Nawas?” tanya Baginda Raja tanpa basa-basi lagi.
             <br/>"Sudah Baginda Raja yang mulia," jawab Abu Nawas membuat orang-orang di istana penasaran.
@@ -48,7 +48,7 @@ function Jenaka() {
             </p>
           </div>
           <div className="carousel-item">
-            <img src="images/abuNawas/nawas-5.jpg" className="carousel-img"/>
+            <img src="images/buku/abuNawas/nawas-5.jpg" className="carousel-img"/>
             <p className='description-story text-center mt-3'>
             Setelah tutup botol dibuka, Baginda Raja mencium bau busuk.
             <br/>Bau tersebut tidak asing bagi Raja karena bau yang menyengat hidung itu adalah bau kentut.
@@ -56,7 +56,7 @@ function Jenaka() {
             </p>
           </div>
           <div className="carousel-item">
-            <img src="images/abuNawas/nawas-6.jpg" className="carousel-img"/>
+            <img src="images/buku/abuNawas/nawas-6.jpg" className="carousel-img"/>
             <p className='description-story text-center mt-3'>
             "Ampun Tuanku, tadi hamba buang angin dan hamba masukkan ke botol.
             <br/>Karena hamba takut angin yang hamba buang itu keluar,

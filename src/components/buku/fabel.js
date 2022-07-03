@@ -7,7 +7,7 @@ function Fabel() {
       <div id="carouselExampleControls" className="carousel slide" data-bs-ride="carousel">
         <div className="carousel-inner">
           <div className="carousel-item active">
-            <img src="images/siKancil/kancil-1.jpg" className="carousel-img" />
+            <img src="images/buku/siKancil/kancil-1.jpg" className="carousel-img" />
             <p className='description-story text-center mt-3'>
             Kancil adalah satwa hutan yang terkenal dengan kecerdikannya. Ia sering membantu memecahkan masalah kawan-kawannya
             <br/>Suatu hari, Kancil yang cerdik dan ramah, sedang berjalan-jalan di pinggir hutan 
@@ -19,7 +19,7 @@ function Fabel() {
             </p>
           </div>
           <div className="carousel-item">
-          <img src="images/siKancil/kancil-2.jpg" className="carousel-img" />
+          <img src="images/buku/siKancil/kancil-2.jpg" className="carousel-img" />
             <p className='description-story text-center mt-3'>
             Kancil melihat pohon buah-buahan di seberang sungai 
             <br/>Ia pun membayangkan betapa nikmatnya buah-buahan, terutama mentimun kesukaannya
@@ -30,7 +30,7 @@ function Fabel() {
             </p>
           </div>
           <div className="carousel-item">
-          <img src="images/siKancil/kancil-3.jpg" className="carousel-img" />
+          <img src="images/buku/siKancil/kancil-3.jpg" className="carousel-img" />
             <p className='description-story text-center mt-3'>
             Kancil mendapatkan ide untuk memanggil buaya dan membantunya menyeberangi sungai
             <br/>Saat melihat seekor buaya keluar ke tepi sungai, Kancil mendatanginya dan berteriak.
@@ -41,7 +41,7 @@ function Fabel() {
             </p>
           </div>
           <div className="carousel-item">
-          <img src="images/siKancil/kancil-4.jpg" className="carousel-img" />
+          <img src="images/buku/siKancil/kancil-4.jpg" className="carousel-img" />
             <p className='description-story text-center mt-3'>
             Kancil pun menjawab pertanyaan buaya dengan senang hati, “Aku mempunyai berita baik untuk kalian semua
             <br/>Aku membawa daging segar dari raja dan diperintahkan untuk menghitung jumlah buaya yang ada di sungai
@@ -52,7 +52,7 @@ function Fabel() {
             </p>
           </div>
           <div className="carousel-item">
-          <img src="images/siKancil/kancil-5.jpg" className="carousel-img" />
+          <img src="images/buku/siKancil/kancil-5.jpg" className="carousel-img" />
             <p className='description-story text-center mt-3'>
             Begitu sampai seberang sungai, Kancil mengatakan yang sebenarnya kepada buaya.
             <br/>"Hai, buaya-buaya bodoh! Sebetulnya, tidak ada daging segar yang akan aku bagikan.

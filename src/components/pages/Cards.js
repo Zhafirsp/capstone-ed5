@@ -10,14 +10,14 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='images/siKancil/kancil-cover.jpg'
+              src='images/buku/siKancil/kancil-cover.jpg'
               text='Kancil dan Buaya'
               label='Fabel'
               path='/fabel'
               description='Dikisahkan pada suatu hari yang terik kancil merasa haus dan kelaparan, tubuhnya terasa lemah setelah seharian tak menemukan makanan, hingga ia tiba di suatu sungai yang airnya cukup....'
             />
             <CardItem
-              src='images/malinKundang/malin-cover.jpg'
+              src='images/buku/malinKundang/malin-cover.jpg'
               text='Kisah Malin Kundang, Anak yang Durhaka'
               label='Legenda'
               path='/legenda'
@@ -26,21 +26,21 @@ function Cards() {
           </ul>
           <ul className='cards__items'>
           <CardItem
-              src='images/abuNawas/nawas-cover.jpg'
+              src='images/buku/abuNawas/nawas-cover.jpg'
               text='Abu Nawas Memenjarakan Angin'
               label='Jenaka'
               path='/jenaka'
               description='suatu hari di istana yang megah tempat baginda raja tinggal, sang baginda mengalami kesakitan di area perutnya sang pengawal mencari tabib untuk mengetahui penyakit sang raja....'
             />
             <CardItem
-              src='images/siKancil/kancil-cover.jpg'
+              src='images/buku/siKancil/kancil-cover.jpg'
               text='Kancil dan Buaya'
               label='Fabel'
               path='/fabel'
               description='Dikisahkan pada suatu hari yang terik kancil merasa haus dan kelaparan, tubuhnya terasa lemah setelah seharian tak menemukan makanan, hingga ia tiba di suatu sungai yang airnya cukup....'
             />
             <CardItem
-              src='images/malinKundang/malin-cover.jpg'
+              src='images/buku/malinKundang/malin-cover.jpg'
               text='Kisah Malin Kundang, Anak yang Durhaka'
               label='Legenda'
               path='/legenda'

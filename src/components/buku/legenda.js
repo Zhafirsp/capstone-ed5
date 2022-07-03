@@ -7,7 +7,7 @@ function Legenda() {
       <div id="carouselExampleControls" className="carousel slide" data-bs-ride="carousel">
         <div className="carousel-inner">
           <div className="carousel-item active" data-bs-interval="10000">
-            <img src="images/malinKundang/malin-1.jpg" className="carousel-img" />
+            <img src="images/buku/malinKundang/malin-1.jpg" className="carousel-img" />
             <p className='description-story text-center mt-3'>
             Zaman dahulu kala ada sebuah cerita di sebuah perkampungan nelayan Pantai Air Manis di Padang, Sumatera Barat.
             <br/>Ada seorang janda bernama Mande Rubayah yang hidup bersama anak laki-lakinya yang bernama Malin Kundang.
@@ -19,7 +19,7 @@ function Legenda() {
             </p>
           </div>
           <div className="carousel-item">
-            <img src="images/malinKundang/malin-2.jpg" className="carousel-img" />
+            <img src="images/buku/malinKundang/malin-2.jpg" className="carousel-img" />
             <p className='description-story text-center mt-3'>
             Saat Malin sudah dewasa ia meminta izin kepada ibunya untuk pergi merantau ke kota, 
             <br/>karena saat itu sedang ada kapal besar merapat di Pantai Air Manis.
@@ -31,7 +31,7 @@ function Legenda() {
             </p>
           </div>
           <div className="carousel-item">
-            <img src="images/malinKundang/malin-3.jpg" className="carousel-img"/>
+            <img src="images/buku/malinKundang/malin-3.jpg" className="carousel-img"/>
             <p className='description-story text-center mt-3'>
             “Baiklah, ibu izinkan. Cepatlah kembali, ibu akan selalu menunggumu Nak,” kata ibunya sambil menangis.
             <br/>Meski dengan berat hati akhirnya Mande Rubayah mengizinkan Malin untuk pergi.
@@ -42,7 +42,7 @@ function Legenda() {
             </p>
           </div>
           <div className="carousel-item">
-            <img src="images/malinKundang/malin-4.jpg" className="carousel-img"/>
+            <img src="images/buku/malinKundang/malin-4.jpg" className="carousel-img"/>
             <p className='description-story text-center mt-3'>
             Hari demi hari terus berlalu, hari yang terasa lambat bagi Mande Rubayah. 
             <br/>Setiap pagi dan sore Mande Rubayah memandang ke laut.
@@ -55,7 +55,7 @@ function Legenda() {
             </p>
           </div>
           <div className="carousel-item">
-            <img src="images/malinKundang/malin-5.jpg" className="carousel-img"/>
+            <img src="images/buku/malinKundang/malin-5.jpg" className="carousel-img"/>
             <p className='description-story text-center mt-3'>
             Bertahun-tahun Mande Rubayah terus bertanya namun tak pernah ada jawaban 
             <br/>hingga tubuhnya semakin tua, dan kini jalannya mulai terbungkuk-bungkuk.
@@ -71,7 +71,7 @@ function Legenda() {
             </p>
           </div>
           <div className="carousel-item">
-            <img src="images/malinKundang/malin-6.jpg" className="carousel-img"/>
+            <img src="images/buku/malinKundang/malin-6.jpg" className="carousel-img"/>
             <p className='description-story text-center mt-3'>
             Penduduk desa mulai berkumpul, mereka mengira kapal itu milik seorang sultan atau seorang pangeran.
             <br/>Mereka menyambutnya dengan gembira.
@@ -84,7 +84,7 @@ function Legenda() {
             </p>
           </div>
           <div className="carousel-item">
-            <img src="images/malinKundang/malin-7.jpg" className="carousel-img"/>
+            <img src="images/buku/malinKundang/malin-7.jpg" className="carousel-img"/>
             <p className='description-story text-center mt-3'>
             Mande Rubayah juga ikut berdesakan mendekati kapal. 
             <br/>Jantungnya berdebar keras saat melihat lelaki muda yang berada di kapal itu, 
@@ -95,7 +95,7 @@ function Legenda() {
             </p>
           </div>
           <div className="carousel-item">
-            <img src="images/malinKundang/malin-8.jpg" className="carousel-img"/>
+            <img src="images/buku/malinKundang/malin-8.jpg" className="carousel-img"/>
             <p className='description-story text-center mt-3'>
             Malin terkejut karena dipeluk perempuan tua renta yang berpakaian compang-camping itu.
             <br/>Ia tak percaya bahwa perempuan itu adalah ibunya.
@@ -107,7 +107,7 @@ function Legenda() {
             </p>
           </div>
           <div className="carousel-item">
-            <img src="images/malinKundang/malin-9.jpg" className="carousel-img"/>
+            <img src="images/buku/malinKundang/malin-9.jpg" className="carousel-img"/>
             <p className='description-story text-center mt-3'>
             Mande Rubayah tidak percaya akan perilaku anaknya, ia jatuh terduduk sambil berkata,
             <br/>“Malin, Malin, anakku. Aku ini ibumu, Nak! Mengapa kau jadi seperti ini Nak?!”
@@ -120,7 +120,7 @@ function Legenda() {
             </p>
           </div>
           <div className="carousel-item">
-            <img src="images/malinKundang/malin-10.jpg" className="carousel-img"/>
+            <img src="images/buku/malinKundang/malin-10.jpg" className="carousel-img"/>
             <p className='description-story text-center mt-3'>
             Dilihatnya kapal Malin semakin menjauh. Ia tak menyangka Malin yang dulu disayangi tega berbuat demikian.
             <br/>Hatinya perih dan sakit, lalu tangannya diangkat ke langit. Ia kemudian berdoa dengan hatinya yang pilu,
@@ -132,7 +132,7 @@ function Legenda() {
             </p>
           </div>
           <div className="carousel-item">
-            <img src="images/malinKundang/malin-11.jpg" className="carousel-img"/>
+            <img src="images/buku/malinKundang/malin-11.jpg" className="carousel-img"/>
             <p className='description-story text-center mt-3'>
             Tiba-tiba datanglah badai besar, menghantam kapal Malin Kundang. Lalu sambaran petir yang menggelegar.
             <br/>Saat itu juga kapal hancur berkeping- keping. Kemudian terbawa ombak hingga ke pantai.
