@@ -4,7 +4,7 @@ import AppRoutes from './routes/index.js';
 function App() {
   return (
     <div>
-    <AppRoutes />
+      <AppRoutes />
     </div>
   );
 }

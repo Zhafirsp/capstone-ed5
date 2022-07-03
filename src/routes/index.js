@@ -9,6 +9,7 @@ import Fabel from '../components/buku/fabel'
 import Legenda from '../components/buku/legenda';
 import Jenaka from '../components/buku/jenaka';
 import Footer from '../components/footer/Footer.tsx'
+import Berhitung from '../pages/berhitung/berhitung.tsx';
 
 const AppRoutes =() => {
   return (
@@ -23,6 +24,7 @@ const AppRoutes =() => {
           <Route path='/fabel' component={Fabel} />
           <Route path='/legenda' component={Legenda} />
           <Route path='/jenaka' component={Jenaka} />
+          <Route path='/berhitung' component={Berhitung} />
           </Switch>
       <Footer />
       </Router>

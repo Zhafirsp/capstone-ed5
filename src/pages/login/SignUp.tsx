@@ -4,7 +4,6 @@ import {
   Box,
   Flex,
   Heading,
-  Link,
   FormControl,
   FormLabel,
   Input,
@@ -12,9 +11,9 @@ import {
   Checkbox,
   Button
 } from '@chakra-ui/react';
+import { Link } from 'react-router-dom';
 
 const VARIANT_COLOR = 'teal'
-
 export default function SignUp() {
   return (
     <Flex minHeight='100vh' width='full' align='center' justifyContent='center'>
@@ -50,7 +49,6 @@ const SignUpForm = () => {
   return (
     <Box my={8} textAlign='left'>
       <form>
-
         <FormControl>
           <FormLabel>Email address</FormLabel>
           <Input type='email' placeholder='Enter your email address' />
@@ -70,7 +68,9 @@ const SignUpForm = () => {
           </Box>
         </Stack>
 
-        <Button width='full' mt={4}>Sign In</Button>
+        <Link to='/'>
+          <Button width='full' mt={4}>Sign In</Button>
+        </Link>
       </form>
     </Box>
   )

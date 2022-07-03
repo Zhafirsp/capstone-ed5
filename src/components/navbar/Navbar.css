@@ -27,6 +27,8 @@
   font-size: 1.8rem;
   display: flex;
   align-items: center;
+  width: 125px;
+  margin-bottom: 10px;
 }
 
 .nav-menu {

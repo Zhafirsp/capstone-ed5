@@ -4,19 +4,17 @@ import {
   Container,
   Stack,
   Text,
-  Heading,
   useColorModeValue,
   VisuallyHidden,
 } from '@chakra-ui/react';
 import { FaInstagram, FaTwitter, FaYoutube } from 'react-icons/fa';
 import { ReactNode } from 'react';
+import './Footer.css'
 
 const Logo = (props: any) => {
   return (
     <>
-      <Heading>
-        Readly
-      </Heading>
+      <img src="images/Logo.png" className="logo-img" />
     </>
   );
 };
