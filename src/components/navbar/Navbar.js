@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Button } from '../pages/Button';
 import { Link } from 'react-router-dom';
-import { Heading } from '@chakra-ui/react';
 import './Navbar.css';
 
 function Navbar() {

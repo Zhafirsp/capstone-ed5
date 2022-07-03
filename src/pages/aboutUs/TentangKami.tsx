@@ -97,20 +97,20 @@ const TentangKami = () => {
                 <ListItem>
                   Memperkuat nilai kepribadian.
                 </ListItem>
-                <Heading size="md" mb="6" mt={25}>
-                  Kredit
-                </Heading>
-                <UnorderedList>
-                  <ListItem>
-                    unsplash.com
-                  </ListItem>
-                  <ListItem>
-                    popmama.com
-                  </ListItem>
-                  <ListItem>
-                    kopat_animation
-                  </ListItem>
-                </UnorderedList>
+              </UnorderedList>
+              <Heading size="md" mb="6" mt={25}>
+                Kredit
+              </Heading>
+              <UnorderedList>
+                <ListItem>
+                  unsplash.com
+                </ListItem>
+                <ListItem>
+                  popmama.com
+                </ListItem>
+                <ListItem>
+                  kopat_animation
+                </ListItem>
               </UnorderedList>
             </Box>
             <Box maxW="8xl" pt={5} px={{ base: 12, sm: 12, md: 8, lg: 1 }}>

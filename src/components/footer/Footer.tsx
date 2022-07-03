@@ -7,7 +7,7 @@ import {
   useColorModeValue,
   VisuallyHidden,
 } from '@chakra-ui/react';
-import { FaInstagram, FaTwitter, FaYoutube } from 'react-icons/fa';
+import { FaInstagram, FaTwitter, FaYoutube, FaGithub } from 'react-icons/fa';
 import { ReactNode } from 'react';
 import './Footer.css'
 
@@ -61,6 +61,7 @@ function Footer() {
         py={4}
         direction={{ base: 'column', md: 'row' }}
         spacing={4}
+        mt={100}
         justify={{ base: 'center', md: 'space-between' }}
         align={{ base: 'center', md: 'center' }}>
         <Logo />
@@ -77,6 +78,9 @@ function Footer() {
           </SocialButton>
           <SocialButton label={'Instagram'} href={'#'}>
             <FaInstagram />
+          </SocialButton>
+          <SocialButton label={'Github'} href={'https://github.com/Zhafirsp/capstone-ed5'}>
+            <FaGithub />
           </SocialButton>
         </Stack>
       </Container>

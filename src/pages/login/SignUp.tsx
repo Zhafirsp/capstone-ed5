@@ -68,7 +68,7 @@ const SignUpForm = () => {
           </Box>
         </Stack>
 
-        <Link to='/'>
+        <Link to='/membaca'>
           <Button width='full' mt={4}>Sign In</Button>
         </Link>
       </form>

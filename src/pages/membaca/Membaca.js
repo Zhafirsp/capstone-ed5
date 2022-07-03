@@ -4,9 +4,9 @@ import Cards from '../../components/pages/Cards';
 
 function Membaca() {
   return (
-    <>
+    <div className='membaca'>
       <Cards />
-    </>
+    </div>
   );
 }
 
